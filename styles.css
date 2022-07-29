@@ -1,0 +1,16 @@
+/* .allservicecards{ */
+    /* margin-left: 656px; */
+    /* display: flex; */
+/* } */
+.servicecardsleft{
+    float: left;
+}
+.servicecardsright{
+    float: right;
+}
+.card-deck{
+    padding-bottom: 20px;
+}
+.fixrow{
+    margin-right: 100px;
+}
